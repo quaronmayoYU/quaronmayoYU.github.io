@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    padding-top: 130px;
+
+}
+
+body {
+    background: linear-gradient(120deg, #1D2D44, #8CA0BA);
+    background-size: cover;
+    font-size: 30px;
+
+}
+
+form {
+    text-align: center;
+    border-style: groove;
+    border-width: thick;
+    border-color: #F0EBD8;
+    background-color: #E2D9B6;
+    border-radius: 300px;
+}
+
+#results {
+    font-size: 30px;
+    text-align: center;
+}
